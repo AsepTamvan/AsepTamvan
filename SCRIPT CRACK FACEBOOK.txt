@@ -1,0 +1,17 @@
+Script MhndRenzz/cracker_fb
+
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install python
+$ pip install requests
+$ pip install mechanize
+$ pip install bs4
+$ pip install rich
+$ pip install stdiomask
+$ pip install colorama
+$ https://github.com/MhndRenzz/cracker_fb
+$ cd cracker_fb
+$ python run_enc.py
+
+📍mohon batuan nya buat subscribe
